@@ -1,6 +1,7 @@
-# hello
-## how do you do?
-### This is a demo on how markdown works
-#### this is h4
-##### this is another one 
-###### this is also another one
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
+
